@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suganth-solaman
-- 👀 I’m interested in ...python,javascript,cloud cumputing,ethical hacking,ai,c,angular
-- 🌱 I’m currently learning ...python,ethical hacking,angular
+- 👀 I’m interested in ...python,Artificial intelligent,machine learing,deep learing,
+- 🌱 I’m currently learning ...python,ai,ml,web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

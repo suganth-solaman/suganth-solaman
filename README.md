@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suganth-solaman
+# Hi there, I'm suganth
 - 👀 I’m interested in ...python,Artificial intelligent,machine learing,deep learing,
 - 🌱 I’m currently learning ...python,ai,ml,web development
 - 💞️ I’m looking to collaborate on ...
